@@ -1,0 +1,14 @@
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\bin\Debug\net8.0\SuperMiniRendering.exe
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\bin\Debug\net8.0\SuperMiniRendering.deps.json
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\bin\Debug\net8.0\SuperMiniRendering.runtimeconfig.json
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\bin\Debug\net8.0\SuperMiniRendering.dll
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\bin\Debug\net8.0\SuperMiniRendering.pdb
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\obj\Debug\net8.0\SuperMiniRendering.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\obj\Debug\net8.0\SuperMiniRendering.AssemblyInfoInputs.cache
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\obj\Debug\net8.0\SuperMiniRendering.AssemblyInfo.cs
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\obj\Debug\net8.0\SuperMiniRendering.csproj.CoreCompileInputs.cache
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\obj\Debug\net8.0\SuperMiniRendering.dll
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\obj\Debug\net8.0\refint\SuperMiniRendering.dll
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\obj\Debug\net8.0\SuperMiniRendering.pdb
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\obj\Debug\net8.0\SuperMiniRendering.genruntimeconfig.cache
+D:\VSC3#\Csharp入门教程1\SuperMiniRendering\obj\Debug\net8.0\ref\SuperMiniRendering.dll
