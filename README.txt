@@ -17,17 +17,24 @@
 
 ## 安装与使用
 
-1. 将项目克隆到本地
-   git clone https://github.com/[你的用户名]/C-_SuperMiniRender.git
+方法一：直接下载（推荐）
 
-2. 打开项目目录
-   cd C-_SuperMiniRender/master
+在GitHub页面点击"Code"按钮，然后选择"Download ZIP"
+下载完成后解压缩到您选择的文件夹
+使用Visual Studio或您喜欢的IDE打开项目
 
-3. 使用您喜欢的C#编译器或IDE编译项目
+方法二：使用Git克隆
 
-4. 运行程序:
-   - 将控制台窗口最大化以获得最佳观看体验
-   - 按"1"键显示渲染效果
+将项目克隆到本地
+git clone https://github.com/[项目所有者用户名]/C-_SuperMiniRender.git
+打开项目目录
+cd C-_SuperMiniRender/master
+
+运行程序:
+
+将控制台窗口最大化以获得最佳观看体验
+编译并运行程序
+按"1"键显示渲染效果
 
 ## 实现说明
 
