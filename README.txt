@@ -1,75 +1,59 @@
-# C-_SuperMiniRender
-
-· 项目本体在master文件夹的Program.cs文件。
-· 通过控制台打开，先把控制台窗口放到最大，再按1即可显示渲染效果。
-· C#图形学小白入门练手作品，代码可能有很多不合理、不完善的地方，多多指教。
-· 目前透视模式的光照有bug 看起来奇怪，希望有兴趣的同学继续修缮，就当是小作业。
-· 求小星星(*^▽^*)
-
 # SuperMiniRender
 
-A minimalistic 3D renderer implemented in C# - perfect for graphics programming beginners to learn the fundamentals of rendering.
+独立开发 全网首个用C#实现的基于ASCII渲染的简单3D渲染器 - 非常适合图形编程初学者学习渲染基础。
 
-## 🚀 Overview
+## 特点
 
-SuperMiniRender is a simple console-based 3D renderer that demonstrates basic graphics programming concepts. This project serves as an educational tool for C# and computer graphics beginners to understand rendering principles through practical implementation.
+- 没有使用任何第三方库，基于控制台的渲染（ASCII渲染），展示像素生成的底层逻辑
+- 基础3D对象可视化
+- 简单的光照效果
+- 交互式视口
 
-## ✨ Features
+## 使用前提
 
-- Console-based rendering
-- Basic 3D object visualization
-- Simple lighting effects
-- Interactive viewport
+- .NET Framework或.NET Core
+- Windows操作系统(用于控制台渲染)
+- 可以最大化的终端/控制台窗口
 
-## 📋 Prerequisites
+## 安装与使用
 
-- .NET Framework or .NET Core
-- Windows operating system (for console rendering)
-- Terminal/console that can be maximized
+1. 将项目克隆到本地
+   git clone https://github.com/[你的用户名]/C-_SuperMiniRender.git
 
-## 🔧 Installation & Usage
-
-1. Clone the repository
-   ```
-   git clone https://github.com/[your-username]/C-_SuperMiniRender.git
-   ```
-
-2. Navigate to the project directory
-   ```
+2. 打开项目目录
    cd C-_SuperMiniRender/master
-   ```
 
-3. Compile the project using your preferred C# compiler or IDE
+3. 使用您喜欢的C#编译器或IDE编译项目
 
-4. Run the program:
-   - Maximize your console window for the best viewing experience
-   - Press `1` to display the rendering effect
+4. 运行程序:
+   - 将控制台窗口最大化以获得最佳观看体验
+   - 按"1"键显示渲染效果
 
-## 🛠️ Implementation Notes
+## 实现说明
 
-- The main implementation is located in `master/Program.cs`
-- The current perspective mode has some lighting bugs that cause visual artifacts
-- This is a beginner-friendly project with opportunities for improvements
+- 主要实现位于master/Program.cs文件中
+- 当前透视模式的光照有bug，会导致视觉异常
+- 这是一个适合初学者的项目，有很多改进的机会
 
-## 🤝 Contributing
+## 贡献
 
-Contributions are welcome! Feel free to:
+欢迎贡献!您可以:
 
-- Fork the project
-- Fix bugs (especially the perspective lighting issue)
-- Add features
-- Submit pull requests
+- Fork该项目
+- 修复bug(特别是透视光照问题)
+- 添加功能
+- 提交拉取请求
 
-This project is perfect for practicing graphics programming concepts or as a small assignment for computer graphics courses.
+这个项目非常适合练习图形编程概念或作为计算机图形课程的小作业。
 
-## ⭐ Support
+## 支持
 
-If you find this project helpful or interesting, please consider giving it a star on GitHub!
+如果您认为这个项目有帮助或有趣，请考虑在GitHub上给它一个星星! (*^▽^*)
 
-## 📄 License
+## 许可证
 
-[MIT License](LICENSE)
+MIT许可证(LICENSE)
 
 ---
 
-*This project was created as a learning exercise in computer graphics using C#. The code may contain areas for improvement as it was developed by a graphics programming beginner.*
+*这个项目是作为使用C#学习计算机图形学的练习而创建的。由于是图形编程初学者开发的，代码可能存在需要改进的地方。*
